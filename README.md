@@ -1,6 +1,7 @@
 # WinForms Monaco-Based Code Editor
 
-> **NOTE**: The WinForms `CodeEditor` control is available as part of this example. It is not included in the DevExpress WinForms UI distribution.
+> [!Note]
+> The WinForms `CodeEditor` control is available as part of this example. It is not included in the DevExpress WinForms UI distribution.
 
 This example wraps the open source [Monaco Editor (v0.55.1)](https://github.com/microsoft/monaco-editor). The editor is hosted inside Microsoft WebView2 and exposed through a reusable `CodeEditor` WinForms control.
 
