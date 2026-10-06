@@ -15,7 +15,7 @@ This example wraps the open source [Monaco Editor (v0.55.1)](https://github.com/
 
 ## Prerequisites
 
-- .NET 8+
+- .NET SDK
 - Microsoft WebView2 Runtime
 - Windows
 
